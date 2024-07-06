@@ -2,7 +2,7 @@
 
 *JobFinder* é um protótipo de uma plataforma online que facilita a busca e o envio de vagas de emprego.
 
-![https://andreriffen.github.io/job-finder/](https://github.com/andreriffen/job-finder/blob/c4d0f1e741d2bc4650d63fc0807f639b7f0ef7e2/img/preview.jpg)
+![https://andreriffen.github.io/job-finder/]([https://github.com/andreriffen/job-finder/blob/c4d0f1e741d2bc4650d63fc0807f639b7f0ef7e2/img/preview.jpg](https://opengraph.githubassets.com/ddb6c832f8063a60dd74a7925c8f7364b0c62641e6d5c75989b71112cbbb7a06/andreriffen/job-finder))
 
 [Demonstração no GitHub Pages](https://andreriffen.github.io/job-finder/).
 
